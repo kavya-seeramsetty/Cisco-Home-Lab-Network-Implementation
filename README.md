@@ -1,5 +1,10 @@
 <h1>Cisco Home Lab Network Implementation</h1>
-<h2>Description</h2> This project demonstrates the design and configuration of a virtual enterprise network using **Cisco Packet Tracer**. The setup includes the creation of multiple VLANs for departmental segmentation, inter-VLAN routing, and security measures. The network also integrates a **Wireless Access Point** (WAP) to enable wireless connectivity. The WAP is configured with **WPA2-PSK** encryption using a **PSK passphrase** and **AES encryption** for secure wireless communication. A **Router-on-a-Stick (ROAS)** configuration is used for VLAN communication, and **DHCP** is set up for automatic IP address assignment. Network resilience is ensured with failover mechanisms. <h2>Utilities and Tools Used</h2>
+<h2>Description</h2> This project demonstrates the design and configuration of a virtual enterprise network using Cisco Packet Tracer. The setup includes the creation of multiple VLANs for departmental segmentation, inter-VLAN routing, and security measures. 
+The network also integrates a Wireless Access Point(WAP) to enable wireless connectivity. 
+The WAP is configured with WPA2-PSK encryption using a PSK passphrase and AES encryption for secure wireless communication. 
+A Router-on-a-Stick (ROAS) configuration is used for VLAN communication, and DHCP is set up for automatic IP address assignment. 
+Network resilience is ensured with failover mechanisms. 
+<h2>Utilities and Tools Used</h2>
 Cisco Packet Tracer: Used for simulating and visualizing network configurations, including VLANs, routers, switches, and wireless devices.
 VLAN Configuration: Creating isolated virtual networks for departmental segmentation.
 Router-on-a-Stick (ROAS): Implementing inter-VLAN routing via a single router interface.
